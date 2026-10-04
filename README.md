@@ -15,7 +15,7 @@ npm run images   # regenera src/assets/img desde _src/img
 npm run fonts    # copia las fuentes (Newsreader, Albert Sans) a src/assets/fonts
 ```
 
-Cada push a `main` publica `src/` en GitHub Pages (`.github/workflows/pages.yml`).
+`npm run deploy` publica el contenido de `src/` en la rama `gh-pages`, que es la que sirve GitHub Pages.
 
 ## Fotografías
 

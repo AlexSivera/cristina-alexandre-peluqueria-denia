@@ -7,7 +7,8 @@
   "scripts": {
     "images": "node scripts/images.mjs",
     "fonts": "node scripts/fonts.mjs",
-    "dev": "node scripts/serve.mjs"
+    "dev": "node scripts/serve.mjs",
+    "deploy": "node scripts/deploy.mjs"
   },
   "devDependencies": {
     "@fontsource-variable/albert-sans": "^5.1.0",
