@@ -73,6 +73,10 @@ Fuentes alojadas en el propio sitio (woff2 latino). Sin Google Fonts.
 - Servicios como **índice editorial con filetes**, no rejilla de tarjetas.
 - Patrón de **espiga de roble** solo como textura de transición entre secciones (fina, en CSS).
 
+## Uso del acento en cursiva
+
+La cursiva ámbar dentro de un titular se reserva para tres momentos: el hero, «El espejo» y «El lavado». En el resto de titulares no se usa, para que no se convierta en un tic.
+
 ## Elementos gráficos propios
 
 1. **El arco con halo** (`.arch`): `border-radius` superior completo, filete interior claro de 1px y resplandor ámbar exterior. Reproduce el espejo retroiluminado.
