@@ -1,0 +1,17 @@
+{
+  "name": "cristina-alexandre-peluqueria-denia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web de Cristina Alexandre Peluquería (Dénia). HTML/CSS/JS estático en src/, sin build.",
+  "type": "module",
+  "scripts": {
+    "images": "node scripts/images.mjs",
+    "fonts": "node scripts/fonts.mjs",
+    "dev": "node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "@fontsource-variable/albert-sans": "^5.1.0",
+    "@fontsource-variable/newsreader": "^5.1.0",
+    "sharp": "^0.33.5"
+  }
+}
